@@ -34,7 +34,7 @@ rignum/
 │ └─ Common/
 │
 ├─ lib/
-│ ├─ db/
+│ ├─ db/schema.sql
 │ ├─ fetcher/
 │ ├─ classifier/
 │ ├─ policies/

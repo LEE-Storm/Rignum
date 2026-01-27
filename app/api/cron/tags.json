@@ -1,0 +1,6 @@
+{
+  "content_labels": ["Rumor", "Opinion", "Claim", "Question", "Announcement"],
+  "market_categories": ["Stocks", "Crypto", "FX", "Commodities", "Macro", "Multi-market"],
+  "topics": ["Earnings", "Regulation", "Hack", "Listing", "Delisting"],
+  "flags": ["Unverified", "User-generated", "Automated collection", "Extreme statement"]
+}
