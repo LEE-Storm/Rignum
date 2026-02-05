@@ -1,0 +1,41 @@
+{
+  "title": "Privacy Policy",
+  "effective_date": "2026-02-05",
+  "intro": [
+    "This policy explains how Rignum handles information when you use the Service.",
+    "Rignum is designed to minimize data collection and to display metadata and external links only."
+  ],
+  "sections": [
+    {
+      "heading": "Data we may collect",
+      "bullets": [
+        "Basic usage data for security and reliability (e.g., timestamps, pages requested).",
+        "Information you submit in reports/legal notices (e.g., email, message, URLs).",
+        "Technical logs for troubleshooting."
+      ]
+    },
+    {
+      "heading": "What we do not intentionally collect",
+      "bullets": [
+        "We do not ask for financial account details.",
+        "We do not provide brokerage, trading, or payment features.",
+        "We do not intend to store third-party post/article text on our pages."
+      ]
+    },
+    {
+      "heading": "Retention",
+      "paragraphs": [
+        "Indexed entries may be stored temporarily (e.g., up to ~24 hours) and then removed as part of normal operations.",
+        "Reports and legal notices may be retained longer for compliance and recordkeeping."
+      ]
+    },
+    {
+      "heading": "Sharing",
+      "paragraphs": [
+        "We do not sell personal information.",
+        "We may share information only when necessary to comply with law or to protect rights, safety, and security."
+      ]
+    }
+  ],
+  "footer": "External sources • Content not hosted • Unverified • Minimal data collection"
+}

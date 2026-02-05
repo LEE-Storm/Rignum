@@ -1,0 +1,50 @@
+{
+  "title": "Terms of Service",
+  "effective_date": "2026-02-05",
+  "intro": [
+    "By accessing or using Rignum (the “Service”), you agree to these Terms and the Privacy Policy.",
+    "If you do not agree, do not use the Service."
+  ],
+  "sections": [
+    {
+      "heading": "Service description",
+      "paragraphs": [
+        "Rignum provides an automated index of publicly available third-party references.",
+        "We display metadata and external links only and do not verify accuracy."
+      ]
+    },
+    {
+      "heading": "No advice",
+      "paragraphs": [
+        "The Service is for informational/navigation purposes only and is not financial advice or a recommendation."
+      ]
+    },
+    {
+      "heading": "Acceptable use",
+      "bullets": [
+        "Do not use the Service for unlawful purposes.",
+        "Do not attempt unauthorized access or disrupt the Service.",
+        "Do not use the Service to expose personal data or harass individuals."
+      ]
+    },
+    {
+      "heading": "Visibility and removal",
+      "paragraphs": [
+        "We may limit visibility or remove entries for legal compliance, safety, privacy, or operational reasons."
+      ]
+    },
+    {
+      "heading": "Data retention",
+      "paragraphs": [
+        "Entries may be stored temporarily (e.g., up to ~24 hours) and then removed as part of normal operations."
+      ]
+    },
+    {
+      "heading": "Disclaimer of warranties",
+      "paragraphs": [
+        "The Service is provided “as is” and “as available” without warranties."
+      ]
+    }
+  ],
+  "footer": "External sources • Content not hosted • Unverified • No advice • No recommendations"
+}

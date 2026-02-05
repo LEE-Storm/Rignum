@@ -17,20 +17,7 @@ export default function HomePage() {
 
   return (
     <main className="mx-auto max-w-6xl p-4 space-y-4">
-      <header className="flex items-center justify-between">
-        <div className="text-xl font-bold">Rignum</div>
-        <nav className="text-sm flex gap-4">
-          <a className="underline" href="/disclaimer">
-            Disclaimer
-          </a>
-          <a className="underline" href="/terms">
-            Terms
-          </a>
-          <a className="underline" href="/privacy">
-            Privacy
-          </a>
-        </nav>
-      </header>
+    
 
       <DisclaimerBanner />
 

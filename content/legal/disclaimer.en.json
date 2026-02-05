@@ -1,0 +1,54 @@
+{
+  "title": "Disclaimer",
+  "effective_date": "2026-02-05",
+  "intro": [
+    "Rignum is an automated index of publicly available third-party references about markets (e.g., stocks, crypto, FX, macro).",
+    "We display metadata and external links only. We do not host or reproduce third-party text."
+  ],
+  "sections": [
+    {
+      "heading": "What Rignum is",
+      "bullets": [
+        "An indexing and navigation service for public references.",
+        "Metadata-only cards (categories, tags, source name/type, timestamps).",
+        "External links to third-party sources."
+      ]
+    },
+    {
+      "heading": "What Rignum is NOT",
+      "bullets": [
+        "Not financial advice, investment advice, legal advice, or tax advice.",
+        "Not a broker, dealer, exchange, intermediary, or trading platform.",
+        "Not research, analysis, forecasting, “signals”, or recommendations.",
+        "Not a publisher or host of third-party content."
+      ]
+    },
+    {
+      "heading": "Unverified third-party content",
+      "paragraphs": [
+        "References shown on Rignum may be subjective, incomplete, false, misleading, manipulated, or outdated.",
+        "Rignum does not verify accuracy and does not endorse any viewpoint."
+      ]
+    },
+    {
+      "heading": "External links",
+      "paragraphs": [
+        "Clicking “Open source” takes you to a third-party website. That content is outside our control and governed by the third party’s policies."
+      ]
+    },
+    {
+      "heading": "Automated classification",
+      "paragraphs": [
+        "We may use automated systems (including AI) to classify references into predefined categories and tags.",
+        "Classification is non-evaluative and may be inaccurate; it is not an assessment of truth or outcomes."
+      ]
+    },
+    {
+      "heading": "Limitation of liability",
+      "paragraphs": [
+        "To the maximum extent permitted by law, Rignum is not liable for losses arising from use of the Service or third-party content accessed via links."
+      ]
+    }
+  ],
+  "footer": "External sources • Content not hosted • Unverified • No advice • No recommendations"
+}
